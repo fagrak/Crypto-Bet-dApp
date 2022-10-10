@@ -4,7 +4,7 @@ This is a simple bet/lottery app written with solidity and react.js.
 
 You can test the app at this link below. For try this, you need to have metamask extension.
 
-Link: https://ef7712-3000.preview.csb.app/
+Link: https://h65pfc-3000.preview.csb.app/
 
 # How to run this project?
 1) You must deploy the contract "./contract/bet.sol" on remix etc. 
