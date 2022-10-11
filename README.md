@@ -2,7 +2,7 @@
 
 This is a simple bet/lottery app written with solidity and react.js.
 
-You can test the app at this link below. For try this, you need to have metamask extension.
+You can test the app at this link below. For try this, you need to have metamask extension and Göerli Ethereum testnet.
 
 Link: https://h65pfc-3000.preview.csb.app/
 
