@@ -11,7 +11,8 @@ export default function App() {
   });
 
   const [address] = useState({
-    contract: "0x045DE4EFfccECab903606e9E8Ee6E6107d62280e"
+    contract: "0xE615e3886CE0591de23897599D792e83aCaF44B5" //sepolia
+    // 0x045DE4EFfccECab903606e9E8Ee6E6107d62280e goerli
     //0xD1CA129A71D27722D421F7049d7ab50D905F6bB3
   });
 
