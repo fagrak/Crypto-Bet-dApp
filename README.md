@@ -11,7 +11,7 @@ Crypto Bet is a decentralized application (dApp) built on the Ethereum Sepolia T
 * Users can purchase tickets and join the pool by clicking the "Start" button
 * The app displays the current status of the pool, including contract balance, status, and last winner, when the "Update" button is clicked
 * The "Deposit" button allows users to withdraw their winnings if they win the pool
-* The "Claim" button allows the contract deployer to claim the fee of 0.01% of the pool's total value
+* The "Claim" button allows the contract deployer to claim the fee of 1% of the pool's total value
 * The app has a table displaying all participants of current and previous pools, including the winners
 
 ## Getting Started
